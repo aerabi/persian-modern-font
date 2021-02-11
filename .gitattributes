@@ -1,0 +1,4 @@
+persian-modern-boldoblique.otf filter=lfs diff=lfs merge=lfs -text
+persian-modern-bold.otf filter=lfs diff=lfs merge=lfs -text
+persian-modern-oblique.otf filter=lfs diff=lfs merge=lfs -text
+persian-modern-regular.otf filter=lfs diff=lfs merge=lfs -text
